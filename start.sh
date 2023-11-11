@@ -1,5 +1,5 @@
-# Don't Remove Credit @mobizhub
-# Subscribe YouTube Channel For Amazing Bot @mobizhub
+# Don't Remove Credit @mobizhub3
+# Subscribe YouTube Channel For Amazing Bot @mobizhub3
 # Ask Doubt on telegram @KingVJ01
 
 if [ -z $UPSTREAM_REPO ]
